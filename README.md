@@ -1,6 +1,6 @@
-## Hexal Energy app
+## AWS Cognto Auth tutorial with React.js
 
-This is a starter ReactJS UI for my 'Create a Serverless App' tutorial series.
+This is a starter ReactJS UI for 'Create a Serverless App'
 
 ## Application Info
 
