@@ -1,5 +1,5 @@
 {
-  "name": "hexal-serverless-starter",
+  "name": "cognito-serverless-starter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
