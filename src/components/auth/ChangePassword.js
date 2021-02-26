@@ -49,6 +49,8 @@ class ChangePassword extends Component {
       this.props.history.push('/changepasswordconfirmation')
     } catch (error) {
       console.error(error)
+      let err
+      err = !error.message ? {"message": error} : error;
     }
   };
 
