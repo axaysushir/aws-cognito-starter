@@ -1,6 +1,6 @@
 ## AWS Cognto Auth tutorial with React.js
 
-This is a starter ReactJS UI for 'Create a Serverless App' using AWS Amplify and Cognito.
+This is a starter ReactJS UI for 'Create a Serverless Authentication in React App' using AWS Amplify and Cognito.
 
 ## Application Info
 
