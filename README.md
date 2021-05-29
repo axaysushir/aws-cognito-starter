@@ -6,7 +6,7 @@ This is a starter ReactJS UI for 'Create a Serverless Authentication in React Ap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Script
 
 In the project directory, you can run:
 
